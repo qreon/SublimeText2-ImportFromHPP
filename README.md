@@ -32,7 +32,7 @@ Source file filled in by the command:
  And that's it.  
 
  ##### How to install:
- - Download **hpp_import.py** and **User.sublime-commands**
+ - Download hpp_import.py and User.sublime-commands
  - Put them in *ST dir*/Packages/User/
 
 **\*\*Note: if you already have a user-defined** *.sublime-commands* **file, 
