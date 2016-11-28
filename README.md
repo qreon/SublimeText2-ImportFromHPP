@@ -26,13 +26,14 @@ Source file filled in by the command:
  - Opens your header file
  - Extract the class's name
  - Finds the lines where methods are declared
- - Insert every one of them in your source file with appropriate formatting (namespace, return type, braces and tabs, etc)  
+ - Insert every one of them in your source file with appropriate formatting (namespace, return type, braces and tabs, etc)
    
+
  And that's it.  
 
  ##### How to install:
- - Download the three files
- - Put them in <ST dir>/Packages/User/
+ - Download hpp_import.py and User.sublime-commands
+ - Put them in *ST dir*/Packages/User/
 
 **\*\*Note: if you already have a user-defined** *.sublime-commands* **file, 
 you can paste the contents of this one in yours.**  
