@@ -12,13 +12,13 @@ of class's methods in a source file, ready for implementation.
  - When the command shows up, select it and validate
  - Enjoy the results
 
-Example header file:
+Example header file:  
 ![Example header file](http://i.imgur.com/7OyxyQb.png "Example header file")
 
-New source file (*same name*) and Command Palette:
+New source file (*same name*) and Command Palette:  
 ![Example header file](http://i.imgur.com/rGhnDQq.png "New source file and Command Palette")
 
-Source file filled in by the command:
+Source file filled in by the command:  
 ![Source file filled in by the command](http://i.imgur.com/5V79NOp.png "Source file after")
 
 ##### Here's what the command does for that:
