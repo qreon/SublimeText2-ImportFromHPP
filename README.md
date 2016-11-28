@@ -13,27 +13,29 @@ of class's methods in a source file, ready for implementation.
  - Enjoy the results
 
 Example header file:
-![Example header file](http://imgur.com/a/RULe8 "Example header file")
+![Example header file](http://i.imgur.com/7OyxyQb.png "Example header file")
 
 New source file (*same name*) and Command Palette:
-![Example header file](http://imgur.com/a/zXFKd "New source file and Command Palette")
+![Example header file](http://i.imgur.com/rGhnDQq.png "New source file and Command Palette")
 
 Source file filled in by the command:
-![Source file filled in by the command](http://imgur.com/a/L65Gn "Source file after")
+![Source file filled in by the command](http://i.imgur.com/5V79NOp.png "Source file after")
 
 ##### Here's what the command does for that:
  - Looks up your source file name and replaces *.cpp* with *.hpp*
  - Opens your header file
  - Extract the class's name
  - Finds the lines where methods are declared
- - Insert every one of them in your source file with appropriate formatting (namespace, return type, braces and tabs, etc).
- 
+ - Insert every one of them in your source file with appropriate formatting (namespace, return type, braces and tabs, etc)  
+   
+ And that's it.  
+
  ##### How to install:
  - Download the three files
  - Put them in <ST dir>/Packages/User/
 
 **\*\*Note: if you already have a user-defined** *.sublime-commands* **file, 
-you can paste the contents of this one in yours.** 
+you can paste the contents of this one in yours.**  
 (be sure to insert the entry properly into the JSON object)
 
 ##### Warning
